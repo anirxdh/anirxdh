@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome To My GitHub Lab — where AI Meets Action! ✨</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="banner" />
+  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/anirxdh/anirxdh/issues/1#issuecomment-2974884791)" alt="banner" />
 </p>
 
 ---
