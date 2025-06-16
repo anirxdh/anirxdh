@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/anirxdh/anirxdh/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+</p>
+
 ## 🏆 LEETCODE INFO 💻
 
 <p align="center">
@@ -104,4 +108,4 @@
 
 ✨ Thanks for stopping by! Feel free to explore and connect!
 
-https://github.com/anirxdh/anirxdh/blob/output/github-contribution-grid-snake.svg
+
