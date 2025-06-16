@@ -51,7 +51,7 @@
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirxdh&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirxdh&layout=compact&theme=radical&hide=Jupyter%20Notebook" />
 </p>
 
 ---
@@ -69,10 +69,15 @@
 ## 📜 CERTIFICATIONS & RECOGNITION
 
 - 🏅 Patent: Contactless Integrated Voting System (ID: 202341031598)
-- 📜 AI with Python – Harvard CS50 (2024)
-- 🤖 AI A–Z: ChatGPT & LLM – Udemy (2024)
-- 🛰️ AI/ML for Geodata – ISRO (2024)
-- 💡 Published research on radar-based life activity detection
+
+---
+
+## ADDITIONAL COURSEWORK AND CERTIFICATIONS
+
+- 'TensorFlow Developer Certificate in 2023: Zero to Mastery', Udemy - August 2022
+- 'Python for Data Science', NPTEL, IIT Madras: 'Silver+ Elite' – April 2022
+- 'Foundations of Project Management', offered by Google through Coursera – March 2022
+- 'Introduction to Machine Learning', NPTEL, IIT Kharagpur – September 2021
 
 ---
 
