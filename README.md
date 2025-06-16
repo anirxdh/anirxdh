@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+Anirudh+Vasudevan+%F0%9F%91%8B;AI+Engineer+%7C+FSD+%7C+Research+Assistant;Always+building+AI-powered+apps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+Anirudh+Vasudevan+%F0%9F%91%8B;AI%20Engineer+%7C+FSD+%7C+Research+Assistant;Always+building+AI-powered+apps!)](https://git.io/typing-svg)
 
 🚀 **Innovator at Heart ❤️**
 
@@ -50,21 +50,8 @@
 
 ## 📈 GITHUB ACTIVITY
 
-![github-contribution-grid-snake](https://github.com/anirxdh/anirxdh/blob/output/github-contribution-grid-snake.svg)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anirxdh&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirxdh&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirxdh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirxdh&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -111,3 +98,5 @@
 ---
 
 ✨ Thanks for stopping by! Feel free to explore and connect!
+
+https://github.com/anirxdh/anirxdh/blob/output/github-contribution-grid-snake.svg
