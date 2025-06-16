@@ -66,7 +66,7 @@
 
 ---
 
-## 📜 CERTIFICATIONS & RECOGNITION
+## 📜  RECOGNITION
 
 - 🏅 Patent: Contactless Integrated Voting System (ID: 202341031598)
 
