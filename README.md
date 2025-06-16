@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+Anirudh+Vasudevan+%F0%9F%91%8B;AI%20Engineer+%7C+FSD+%7C+Research+Assistant;Always+building+AI-powered+apps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+Anirudh+Vasudevan+%F0%9F%91%8B;AAI%20Engineer+%7C+FSD+%7C+Research+Assistant;Always+building+AI-powered+apps!)](https://git.io/typing-svg)
 
 🚀 **Innovator at Heart ❤️**
 
