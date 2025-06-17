@@ -62,7 +62,7 @@
 
 ## 🚀 FEATURED PROJECTS
 
-- 🧾 [**TalkativePDF**](https://talkative-pdf.vercel.app/) — GPT-4 powered RAG assistant for any PDF  
+- 🧾 [**TalkativePDF**](https://talkative-pdf.vercel.app/) — GPT-4 powered SAAS RAG assistant for any PDF  
 - 🌐 [**BlewIt**](https://blewit.onrender.com/) — Reddit-style full stack forum with auth & search  
 - 🎤 **CIVS Voting System** — Gesture/speech voting system (Patent Published!)  
 - 📸 **YOLO Tablet Counter** — Real-time object detection pipeline  
