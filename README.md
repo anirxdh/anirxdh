@@ -48,7 +48,7 @@
 - 🎯 AI Agents + MCP tools for automated server-side intelligence  
 - 💊 Tablet counter using YOLOv8 object detection in real-time video  
 - 🧠 Full-stack SaaS (TalkativePDF) with GPT-4 + Pinecone + LangChain  
-- 📊 Building dashboards using Splunk, SCCM (3M internship)  
+
 
 ---
 
