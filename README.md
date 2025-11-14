@@ -8,7 +8,7 @@
 
 🚀 **Innovator at Heart ❤️**
 
-🎓 Currently pursuing MS in Computer Science at the **University of Minnesota, Twin Cities**  
+🎓 MS in Computer Science at the **University of Minnesota, Twin Cities**  
 🤖 Passionate about AI agents, Object Detection, and Full-Stack Apps  
 🧠 Leveraging GPT-4, LangChain, and Pinecone to build real-world AI SaaS  
 🌍 I believe in solving meaningful problems through practical, scalable tech.
