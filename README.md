@@ -93,7 +93,7 @@
 | **Frameworks**            | React, Next.js, Flask, Tailwind CSS, Three.js, shadcn                                                  |
 | **AI/ML Tools**           | GPT-4, LangChain, Pinecone, Hugging Face, YOLOv8, OpenCV, RAG, Agents, Ollama, Groq, n8n              |
 | **Databases**             | Supabase, Firebase, PostgreSQL, Pinecone                                                              |
-| **DevOps/Tools**          | Git, GitHub, Vercel, CI/CD, Figma, Agile, Scrum, Splunk, SCCM                                         |
+| **DevOps/Tools**          | Git, GitHub, Vercel, CI/CD, Figma, Agile                                                              |
 
 ---
 
