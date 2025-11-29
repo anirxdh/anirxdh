@@ -39,7 +39,7 @@
 - B.Tech in CS, SRM Institute of Science and Tech (2019–2023)
 - IIT Madras – Diploma in Data Science (2021–2023)
 - LangChain & GPT-4 project experience (RAG, Pinecone, n8n agents, embeddings)
-- Published patent holder & radar-based AI researcher
+- Published patent holder
 
 ---
 
