@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I+am+Anirudh+Vasudevan+%F0%9F%91%8B;Member+of+Technical+Staff+at+Rivo;Voice+AI+%7C+Agents+%7C+Full-Stack+%7C+Growth;EMNLP+author+and+granted+patent+holder)](https://git.io/typing-svg)
 
-🚀 **Building AI that ships ❤️**
+🚀 **Building AI that ships ❤️**  
+🌐 **[anirudhvasudevan.com](https://anirudhvasudevan.com/)** · [About me](https://anirudhvasudevan.com/about/) · [Writing: how I built my projects](https://anirudhvasudevan.com/blog/)
 
 💼 **Member of Technical Staff at Rivo**, production voice AI, agents, and full-stack  
 🎓 MS in Computer Science, **University of Minnesota, Twin Cities** (2025)  
@@ -111,7 +112,8 @@
 
 ## 🌐 CONNECT WITH ME
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anirudhvasudevan.netlify.app-1f425f?style=flat&logo=google-chrome)](https://anirudhvasudevan.netlify.app/)  
+[![Website](https://img.shields.io/badge/Website-anirudhvasudevan.com-1f425f?style=flat&logo=google-chrome)](https://anirudhvasudevan.com/)  
+[![Writing](https://img.shields.io/badge/Writing-project%20deep%20dives-555?style=flat&logo=readdotcv)](https://anirudhvasudevan.com/blog/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh%20Vasudevan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudhvasudev/)  
 [![Email](https://img.shields.io/badge/Email-anirudhvasudevan11@gmail.com-red?style=flat&logo=gmail)](mailto:anirudhvasudevan11@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-anirxdh-black?style=flat&logo=github)](https://github.com/anirxdh)  
